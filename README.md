@@ -1,4 +1,7 @@
-fedora-openshift-spin
+Fedora OpenShift spin
 =====================
 
-Fedora OpenShift spin https://fedoraproject.org/wiki/OpenShift_Spin
+Project page https://fedoraproject.org/wiki/OpenShift_Spin
+
+This is a repository for Fedora OpenShift spin kickstarts, pull requests are
+welcome.
